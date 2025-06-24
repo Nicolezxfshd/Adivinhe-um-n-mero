@@ -1,0 +1,10 @@
+body {
+    background-color: #b3e0ff;
+    /* azul claro bebê */
+}
+
+button:active {
+    background-color: #4fc3f7; /* tom de azul mais escuro ao clicar */
+    color: #fff;
+    transition: background-color 0.2s;
+}
